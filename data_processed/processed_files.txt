@@ -1,0 +1,170 @@
+number of files: 1521
+
+Processed file: snapshot_sym4_date33_pm.csv
+Removed 1999 rows with a large number of zeros in snapshot_sym4_date33_pm.csv
+Minimum 'close' value for rows with specified conditions: 0.1002372479240807
+Minimum "midprice" value for rows with specified conditions: 0.1002372479240807
+Number of rows after cleaning: 0 in snapshot_sym4_date33_pm.csv
+
+Processed file: snapshot_sym1_date25_am.csv
+Removed 1748 rows with a large number of zeros in snapshot_sym1_date25_am.csv
+Minimum 'close' value for rows with specified conditions: 0.0996677740863787
+Minimum "midprice" value for rows with specified conditions: 0.0996677740863787
+Number of rows after cleaning: 251 in snapshot_sym1_date25_am.csv
+
+Processed file: snapshot_sym2_date57_pm.csv
+Removed 1036 rows with a large number of zeros in snapshot_sym2_date57_pm.csv
+Minimum 'close' value for rows with specified conditions: 0.0999022960429898
+Minimum "midprice" value for rows with specified conditions: 0.0999022960429898
+Number of rows after cleaning: 963 in snapshot_sym2_date57_pm.csv
+
+Processed file: snapshot_sym1_date24_pm.csv
+Removed 1342 rows with a large number of zeros in snapshot_sym1_date24_pm.csv
+Minimum 'close' value for rows with specified conditions: 0.0985401459854014
+Minimum "midprice" value for rows with specified conditions: 0.0985401459854014
+Number of rows after cleaning: 657 in snapshot_sym1_date24_pm.csv
+
+Processed file: snapshot_sym2_date59_pm.csv
+Removed 1469 rows with a large number of zeros in snapshot_sym2_date59_pm.csv
+Minimum 'close' value for rows with specified conditions: 0.1000860955660782
+Minimum "midprice" value for rows with specified conditions: 0.1000860955660782
+Number of rows after cleaning: 530 in snapshot_sym2_date59_pm.csv
+
+Processed file: snapshot_sym1_date34_pm.csv
+Removed 709 rows with a large number of zeros in snapshot_sym1_date34_pm.csv
+Minimum 'close' value for rows with specified conditions: 0.1002386634844869
+Minimum "midprice" value for rows with specified conditions: 0.1002386634844869
+Number of rows after cleaning: 1290 in snapshot_sym1_date34_pm.csv
+
+Processed file: snapshot_sym4_date31_pm.csv
+Removed 832 rows with a large number of zeros in snapshot_sym4_date31_pm.csv
+Minimum 'close' value for rows with specified conditions: 0.1002766251728906
+Minimum "midprice" value for rows with specified conditions: 0.1002766251728906
+Number of rows after cleaning: 1167 in snapshot_sym4_date31_pm.csv
+
+Processed file: snapshot_sym0_date64_pm.csv
+Removed 692 rows with a large number of zeros in snapshot_sym0_date64_pm.csv
+Minimum 'close' value for rows with specified conditions: 0.0999422299248988
+Minimum "midprice" value for rows with specified conditions: 0.0999422299248988
+Number of rows after cleaning: 1307 in snapshot_sym0_date64_pm.csv
+
+Processed file: snapshot_sym6_date32_pm.csv
+Removed 103 rows with a large number of zeros in snapshot_sym6_date32_pm.csv
+Minimum 'close' value for rows with specified conditions: 0.1000490436488474
+Minimum "midprice" value for rows with specified conditions: 0.1000490436488474
+Number of rows after cleaning: 1896 in snapshot_sym6_date32_pm.csv
+
+Processed file: snapshot_sym4_date34_am.csv
+Removed 351 rows with a large number of zeros in snapshot_sym4_date34_am.csv
+Minimum 'close' value for rows with specified conditions: 0.1002695417789756
+Minimum "midprice" value for rows with specified conditions: 0.1002695417789756
+Number of rows after cleaning: 1648 in snapshot_sym4_date34_am.csv
+
+Processed file: snapshot_sym7_date10_am.csv
+Removed 959 rows with a large number of zeros in snapshot_sym7_date10_am.csv
+Minimum 'close' value for rows with specified conditions: -0.0999999999999999
+Minimum "midprice" value for rows with specified conditions: -0.0999999999999999
+Number of rows after cleaning: 1040 in snapshot_sym7_date10_am.csv
+
+Processed file: snapshot_sym3_date39_pm.csv
+Removed 747 rows with a large number of zeros in snapshot_sym3_date39_pm.csv
+Minimum 'close' value for rows with specified conditions: 0.0984251968503937
+Minimum "midprice" value for rows with specified conditions: 0.0984251968503937
+Number of rows after cleaning: 1252 in snapshot_sym3_date39_pm.csv
+
+Processed file: snapshot_sym0_date63_am.csv
+Removed 1999 rows with a large number of zeros in snapshot_sym0_date63_am.csv
+Minimum 'close' value for rows with specified conditions: 0.099978818047024
+Minimum "midprice" value for rows with specified conditions: 0.099978818047024
+Number of rows after cleaning: 0 in snapshot_sym0_date63_am.csv
+
+Processed file: snapshot_sym1_date33_am.csv
+Removed 1047 rows with a large number of zeros in snapshot_sym1_date33_am.csv
+Minimum 'close' value for rows with specified conditions: 0.0997375328083991
+Minimum "midprice" value for rows with specified conditions: 0.0997375328083991
+Number of rows after cleaning: 952 in snapshot_sym1_date33_am.csv
+
+Processed file: snapshot_sym1_date25_pm.csv
+Removed 1999 rows with a large number of zeros in snapshot_sym1_date25_pm.csv
+Minimum 'close' value for rows with specified conditions: 0.0996677740863787
+Minimum "midprice" value for rows with specified conditions: 0.0996677740863787
+Number of rows after cleaning: 0 in snapshot_sym1_date25_pm.csv
+
+Processed file: snapshot_sym4_date32_pm.csv
+Removed 820 rows with a large number of zeros in snapshot_sym4_date32_pm.csv
+Minimum 'close' value for rows with specified conditions: 0.0998043052837573
+Minimum "midprice" value for rows with specified conditions: 0.0998043052837573
+Number of rows after cleaning: 1179 in snapshot_sym4_date32_pm.csv
+
+Processed file: snapshot_sym4_date33_am.csv
+Removed 1897 rows with a large number of zeros in snapshot_sym4_date33_am.csv
+Minimum 'close' value for rows with specified conditions: 0.1002372479240807
+Minimum "midprice" value for rows with specified conditions: 0.1002372479240807
+Number of rows after cleaning: 102 in snapshot_sym4_date33_am.csv
+
+Processed file: snapshot_sym7_date42_am.csv
+Removed 583 rows with a large number of zeros in snapshot_sym7_date42_am.csv
+Minimum 'close' value for rows with specified conditions: 0.1002059025394648
+Minimum "midprice" value for rows with specified conditions: 0.1002059025394648
+Number of rows after cleaning: 1416 in snapshot_sym7_date42_am.csv
+
+Processed file: snapshot_sym5_date38_am.csv
+Removed 596 rows with a large number of zeros in snapshot_sym5_date38_am.csv
+Minimum 'close' value for rows with specified conditions: 0.1002386634844869
+Minimum "midprice" value for rows with specified conditions: 0.1002386634844869
+Number of rows after cleaning: 1403 in snapshot_sym5_date38_am.csv
+
+Processed file: snapshot_sym2_date59_am.csv
+Removed 217 rows with a large number of zeros in snapshot_sym2_date59_am.csv
+Minimum 'close' value for rows with specified conditions: 0.1000860955660782
+Minimum "midprice" value for rows with specified conditions: 0.1000860955660782
+Number of rows after cleaning: 1782 in snapshot_sym2_date59_am.csv
+
+Processed file: snapshot_sym4_date34_pm.csv
+Removed 279 rows with a large number of zeros in snapshot_sym4_date34_pm.csv
+Minimum 'close' value for rows with specified conditions: 0.1002695417789756
+Minimum "midprice" value for rows with specified conditions: 0.1002695417789756
+Number of rows after cleaning: 1720 in snapshot_sym4_date34_pm.csv
+
+Processed file: snapshot_sym6_date33_pm.csv
+Removed 1999 rows with a large number of zeros in snapshot_sym6_date33_pm.csv
+Minimum 'close' value for rows with specified conditions: 0.0998662505572893
+Minimum "midprice" value for rows with specified conditions: 0.0998662505572893
+Number of rows after cleaning: 0 in snapshot_sym6_date33_pm.csv
+
+Processed file: snapshot_sym5_date23_pm.csv
+Removed 528 rows with a large number of zeros in snapshot_sym5_date23_pm.csv
+Minimum 'close' value for rows with specified conditions: 0.1005464480874316
+Minimum "midprice" value for rows with specified conditions: 0.1005464480874316
+Number of rows after cleaning: 1471 in snapshot_sym5_date23_pm.csv
+
+Processed file: snapshot_sym6_date42_pm.csv
+Removed 17 rows with a large number of zeros in snapshot_sym6_date42_pm.csv
+Minimum 'close' value for rows with specified conditions: -0.1001494768310913
+Minimum "midprice" value for rows with specified conditions: -0.1001494768310913
+Number of rows after cleaning: 1982 in snapshot_sym6_date42_pm.csv
+
+Processed file: snapshot_sym2_date42_pm.csv
+Removed 888 rows with a large number of zeros in snapshot_sym2_date42_pm.csv
+Minimum 'close' value for rows with specified conditions: 0.1000245760629148
+Minimum "midprice" value for rows with specified conditions: 0.1000245760629148
+Number of rows after cleaning: 1111 in snapshot_sym2_date42_pm.csv
+
+Processed file: snapshot_sym1_date33_pm.csv
+Removed 1999 rows with a large number of zeros in snapshot_sym1_date33_pm.csv
+Minimum 'close' value for rows with specified conditions: 0.0997375328083991
+Minimum "midprice" value for rows with specified conditions: 0.0997375328083991
+Number of rows after cleaning: 0 in snapshot_sym1_date33_pm.csv
+
+Processed file: snapshot_sym7_date10_pm.csv
+Removed 1999 rows with a large number of zeros in snapshot_sym7_date10_pm.csv
+Minimum 'close' value for rows with specified conditions: -0.0999999999999999
+Minimum "midprice" value for rows with specified conditions: -0.0999999999999999
+Number of rows after cleaning: 0 in snapshot_sym7_date10_pm.csv
+
+Processed file: snapshot_sym0_date63_pm.csv
+Removed 1999 rows with a large number of zeros in snapshot_sym0_date63_pm.csv
+Minimum 'close' value for rows with specified conditions: 0.099978818047024
+Minimum "midprice" value for rows with specified conditions: 0.099978818047024
+Number of rows after cleaning: 0 in snapshot_sym0_date63_pm.csv
+

@@ -1,2 +1,9 @@
 1. Exploratory Data Analysis
     清洗、观察数据
+
+    剔除nan inf值： 完全没有
+
+    考虑涨跌停：其实含有0的ask数据都会对训练有影响
+    结果如下：
+
+2、
